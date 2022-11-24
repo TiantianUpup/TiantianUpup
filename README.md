@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: 969795191@qq.com
 
-<div align=right>
+<div align=center>
 <img src=https://github-readme-stats.vercel.app/api?username=TiantianUpup />
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
