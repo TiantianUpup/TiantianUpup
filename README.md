@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tiantian He
-- 👀 I’m interested in optimization now
+- 👀 In the past five years,I was interested in JAVA,however I show great interesting in optimization now,but not very good at it
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: 969795191@qq.com
